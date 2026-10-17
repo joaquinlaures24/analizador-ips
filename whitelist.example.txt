@@ -1,0 +1,17 @@
+# Plantilla de whitelist. Copiar como whitelist.txt y completar con tus IPs.
+# Una entrada por linea. Los comentarios con # son opcionales.
+#
+# Formatos soportados:
+#   IP exacta:    203.0.113.10
+#   Prefijo:      198.51.100.      (termina en punto: toda IP que empiece asi)
+#   Rango CIDR:   192.0.2.0/24
+
+# Scanner de vulnerabilidades propio (ejemplo)
+203.0.113.10
+203.0.113.11
+
+# Rango completo de una oficina (ejemplo)
+198.51.100.
+
+# Rango CIDR de infraestructura propia (ejemplo)
+192.0.2.0/24

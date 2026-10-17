@@ -1,0 +1,20 @@
+# Credenciales: NUNCA subir
+config.json
+
+# Datos generados por el script (cache e historial locales)
+cache_abuseipdb.json
+historial_ips.json
+
+# Whitelist real (usar whitelist.example.txt como plantilla)
+whitelist.txt
+
+# Reportes y exports reales
+reporte_*.xlsx
+*.xlsx
+/*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/

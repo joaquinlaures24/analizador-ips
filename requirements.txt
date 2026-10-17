@@ -1,0 +1,7 @@
+requests
+pandas
+openpyxl
+
+# Opcional: solo para redes corporativas con inspeccion SSL
+# (firewall que re-firma certificados HTTPS). El script lo usa solo si esta instalado.
+# truststore

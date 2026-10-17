@@ -1,0 +1,4 @@
+# Ejemplo de lista de IPs para el modo --txt (una por linea)
+45.155.205.233
+71.6.199.23
+94.154.43.186
